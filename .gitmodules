@@ -1,8 +1,8 @@
-[submodule "external/eos"]
-	path = external/eos
+[submodule "QuickFace-Server/external/eos"]
+	path = QuickFace-Server/external/eos
 	url = https://github.com/patrikhuber/eos.git
 	branch = devel
-[submodule "external/superviseddescent"]
-	path = external/superviseddescent
+[submodule "QuickFace-Server/external/superviseddescent"]
+	path = QuickFace-Server/external/superviseddescent
 	url = https://github.com/patrikhuber/superviseddescent.git
 	branch = devel
