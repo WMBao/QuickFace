@@ -7,15 +7,15 @@ Weiming Bao (collaborating with Bo Pang and Zifan Liu)
 v 1.0.0 - 2017.1.6
 
 
-# Requiring Packages:
+# Requirements:
 
-```
-boost (>=1.54.0)
-OpenCV (>=2.4.8)
-Eigen (>=3.2.0)
-a recent compiler (>=gcc-4.9)
-ubuntu (>=14.04) - optional
-```
+|Name|Version|
+|:-----:|:-----:|
+|boost |>=1.54.0|
+|OpenCV |>=2.4.8|
+|Eigen |>=3.2.0|
+|a recent compiler |>=gcc-4.9|
+|ubuntu (optional) |>=14.04|optional
 
 # 'apt-get' Instructions for Requiring Packages:
 
