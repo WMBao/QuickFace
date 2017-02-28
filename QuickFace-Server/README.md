@@ -22,11 +22,13 @@ ubuntu (>=14.04) - optional
 
 # 'apt-get' Instructions for Requiring Packages:
 
-<sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+```
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 
 sudo apt-get update
 
 sudo apt-get install gcc-5 g++-5 libboost-all-dev libeigen3-dev libopencv-dev opencv-data>
+```
 
 
 # Citation:
