@@ -17,7 +17,7 @@ v 1.0.0 - 2017.1.6
 |a recent compiler |>=gcc-4.9|
 |ubuntu (optional) |>=14.04|optional
 
-# 'apt-get' Instructions for Requiring Packages:
+## 'apt-get' Instructions for Requiring Packages:
 
 ```
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
