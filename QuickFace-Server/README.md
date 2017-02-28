@@ -7,7 +7,7 @@ Weiming Bao (collaborating with Bo Pang and Zifan Liu)
 v 1.0.0 - 2017.1.6
 
 
-# Requirements:
+## Requirements:
 
 |Name|Version|
 |:-----:|:-----:|
@@ -17,7 +17,7 @@ v 1.0.0 - 2017.1.6
 |a recent compiler |>=gcc-4.9|
 |ubuntu (optional) |>=14.04|optional
 
-## 'apt-get' Instructions for Requiring Packages:
+### 'apt-get' Instructions for Requiring Packages:
 
 ```
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
@@ -26,7 +26,7 @@ sudo apt-get install gcc-5 g++-5 libboost-all-dev libeigen3-dev libopencv-dev op
 ```
 
 
-# Citation:
+## Citation:
 
 * _Fitting 3D Morphable Models using Local Features_, P. Huber, Z. Feng, W. Christmas, J. Kittler, M. Rätsch, IEEE International Conference on Image Processing (ICIP) 2015, Québec City, Canada [[PDF]](http://arxiv.org/abs/1503.02330).
 
