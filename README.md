@@ -11,7 +11,7 @@ QuickFace is a software capable of
 * reconstructing the corresponding 3D models 
 * and generating live 3D facial animations in real time.
 
-![Missing image](https://github.com/WMBao/QuickFace/tree/master/image/Composition.jpg)
+![Missing image](https://raw.githubusercontent.com/WMBao/QuickFace/master/image/Composition.jpg)
 
 The Server-side service takes on model reconstruction, which requires strong computing power.
 
@@ -48,10 +48,10 @@ cd {ROOT_DIR}/QuickFace-Server/install/bin
 
 Snapshots for illustration:
 
-![Missing image](https://github.com/WMBao/QuickFace/tree/master/image/snapshot1.jpg)
+![Missing image](https://raw.githubusercontent.com/WMBao/QuickFace/master/image/snapshot1.jpg)
 
-![Missing image](https://github.com/WMBao/QuickFace/tree/master/image/snapshot2.jpg)
+![Missing image](https://raw.githubusercontent.com/WMBao/QuickFace/master/image/snapshot2.jpg)
 
 An example reconstructed 3D facial model is shown as follows (in a third-party 3D model viewer):
 
-![Missing image](https://github.com/WMBao/QuickFace/tree/master/image/3D.jpg)
+![Missing image](https://raw.githubusercontent.com/WMBao/QuickFace/master/image/3D.jpg)
