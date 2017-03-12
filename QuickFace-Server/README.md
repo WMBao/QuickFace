@@ -26,6 +26,19 @@ sudo apt-get install gcc-5 g++-5 libboost-all-dev libeigen3-dev libopencv-dev op
 ```
 
 
+## Configuration
+
+1. Clone with submodules: ``git clone --recursive https://github.com/WMBao/QuickFace.git``, or, if you've already cloned it, get the submodules with ``git submodule update --init --recursive`` inside the Server-side source code directory.
+
+2. Build and install the source code with the following instructions (Run outside the source directory):
+```Shell
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=../install -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=gcc-5 -DCMAKE_CXX_COMPILER=g++-5 -DOpenCV_haarcascades_DIR=/usr/share/opencv/haarcascades/ ../QuickFace/
+make
+make install
+```
+
 ## Citation:
 
 * _Fitting 3D Morphable Models using Local Features_, P. Huber, Z. Feng, W. Christmas, J. Kittler, M. Rätsch, IEEE International Conference on Image Processing (ICIP) 2015, Québec City, Canada [[PDF]](http://arxiv.org/abs/1503.02330).
